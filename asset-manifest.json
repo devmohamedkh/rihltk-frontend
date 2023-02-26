@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rihltk-frontend/static/js/main.e57445c7.js",
+    "main.js": "/rihltk-frontend/static/js/main.d853b934.js",
     "index.html": "/rihltk-frontend/index.html",
-    "main.e57445c7.js.map": "/rihltk-frontend/static/js/main.e57445c7.js.map"
+    "main.d853b934.js.map": "/rihltk-frontend/static/js/main.d853b934.js.map"
   },
   "entrypoints": [
-    "static/js/main.e57445c7.js"
+    "static/js/main.d853b934.js"
   ]
 }
