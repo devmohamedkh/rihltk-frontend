@@ -8,7 +8,7 @@ function Header1({ title, desc }) {
             style={{
                 width: "100%",
 
-                backgroundColor: "#F59D31",
+                backgroundColor: "#0D68A2",
                 padding: 50,
                 textAlign: "center",
                 color: "white",
