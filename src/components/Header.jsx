@@ -12,7 +12,7 @@ function Header() {
                 }}
             >
                 <img
-                    src="images/Artboard-3.jpg"
+                    src="/rihltk-frontend/images/Artboard-3.jpg"
                     alt=""
                     style={{
                         height: 600,
@@ -21,7 +21,7 @@ function Header() {
                     }}
                 />
                 <img
-                    src="images/Artboard-1.jpg"
+                    src="/rihltk-frontend/images/Artboard-1.jpg"
                     alt=""
                     style={{
                         height: 600,
@@ -30,7 +30,7 @@ function Header() {
                     }}
                 />
                 <img
-                    src="images/Artboard-2.jpg"
+                    src="/rihltk-frontend/images/Artboard-2.jpg"
                     alt=""
                     style={{
                         height: 600,
