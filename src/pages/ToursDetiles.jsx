@@ -7,8 +7,8 @@ function ToursDetiles() {
     return (
         <Box>
             <img
-                src="/rihltk-frontend/images/Artboard-1-1-1.png"
-                alt=""
+                src="/rihltk-frontend/images/Artboard-1.jpg"
+                alt="tours"
                 style={{
                     height: 600,
                     width: "100%",
