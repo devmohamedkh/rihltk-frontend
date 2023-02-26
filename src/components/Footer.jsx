@@ -16,7 +16,7 @@ function Footer() {
                 gap: 4,
             }}
         >
-            <img src="/logo.png" height={90} alt="logo"></img>
+            <img src="/rihltk-frontend/logo.png" height={90} alt="logo"></img>
             <Stack direction={{ xs: "column", sm: "row" }} gap={5}>
                 <Link
                     to="/"

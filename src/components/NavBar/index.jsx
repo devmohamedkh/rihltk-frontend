@@ -23,7 +23,11 @@ function NavBar() {
                                 textDecoration: "none",
                             }}
                         >
-                            <img src="/logo.png" height={90} alt="logo"></img>
+                            <img
+                                src="/rihltk-frontend/logo.png"
+                                height={90}
+                                alt="logo"
+                            ></img>
                         </Link>
 
                         <Box
